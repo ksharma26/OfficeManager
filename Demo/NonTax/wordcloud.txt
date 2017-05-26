@@ -1,0 +1,43 @@
+•	Organize them manually, do not use any cloud service like google drive, one drive. Use local drive and source control (github, bit bucket)
+•	Manually create folder structures. If required I go back to the folder structure and rearrange based on the needs. I think I keep on adding new folder trees everytime I have to store a new set to docs. I don’t to adjust them on the existing folder structure. 
+
+•	Nice ppt! Interesting idea. Does it add only text files? I feel, adding more formats like audio, video, binary files will also be good. 
+•	Want it to be more intelligent like for taxes it should know which year tax files is this and creates folder structure based on the year that would be awesome. 
+•	If it can also organizes files based on locations, date or any metadata. 
+•	Might be good idea to integrate with source control
+•	Search option will be something that will make this more usable. 
+
+•	Privacy of the data. I do not want to share my content on any other machine. I am not sure where my data is going to reside. 
+•	How expensive this is going to be? 
+
+
+•	I do spend some time to organize my file and folder structure, which I don’t like. I have to do the decision-making like which folder this file should go into. If office manager can make this decision for me that would be cool. 
+•	Want to try free before paying for it. 
+•	Privacy is the main issue for me. If I have the option of setting the privacy level that will be good. 
+•	Summers Brennan Interview (4/23/17)
+•	* NVidia – Hardware Group- Engineering
+•	* Big thing for Summers is the ability to search information that other people sorted incorrectly or just sorted in general. They are dedicated folders for for sorting their information, but inside of their own dedicated folder, they can build whatever structure they want.
+•	* He said that this takes time but wouldn’t consider it a pain so much as an annoyance and a time consumer
+•	* He said lots of files but not documents, some document and those are text for engineering. But OfficeManager would definitely simplify things because ultimately, we’re all lazy and that would make life easier.
+•	* He said his role is definitely very File Intensive.
+•	o All files saved on servers in CA though
+•	o Should sort and search by: content, file extensions, file name and behavior
+•	o LOTS OF TEXT FILES
+•	o Should be able to perform the alternative, which is use same algorithm to search
+•	o Key thing: Tool makes some decision à
+•	o Lots of shared documents
+•	* This tool should be able to scan your drive, recognize where things are presently and then
+•	continue to learn with use.
+•	o For the Inverse, already knows where things are and will continue to learn from behavior so when you search it will yield first the results that are most relevant to things you do or have done.
+•	* IBM- Technical Writing Team
+•	* This is an extension or a collaboration with the Marketing Team
+•	* They are essentially a marketing agency within IBM that does marketing for IBM products. Their team handles the writing in brochures, white papers, etc.
+•	* LOTS OF DOCUMENTS
+•	o Team, lots of graphics (Adobe)
+•	o They have a team shared drive (ad-hoc structure)
+•	o Hit or miss when looking for information or where things go, sometimes they actually have to go out of their way to hunt information down.
+•	* MAM (marketing asset manager)
+•	* OfficeManager sounds like something that would definitely benefit them, especially their team leads. Concerned because if information wasn’t stored in the right place, then the system learns the wrong thing.
+•	o Needs this to be able to access shared drive
+•	* BIGGEST PAIN POINT- Inconsistency with team, making sure everyone else puts information in the right place, not necessarily him.
+

@@ -1,0 +1,174 @@
+d Control number Dept. Corp. Employer use only d Control number Dept.
+5 Medicare wages and tips 6 Medicare tax withheld 5 Medicare wages and tips 6 Medicare tax withheld 5 Medicare wages and tips 6 Medicare tax withheld
+3 Social security wages 4 Social security tax withheld 3 Social security wages 4 Social security tax withheld 3 Social security wages 4 Social security tax withheld
+1 Wages, tips, other comp. 2 Federal income tax withheld 1 Wages, tips, other comp. 2 Federal income tax withheld 1 Wages, tips, other comp. 2 Federal income tax withheld
+19 Local income tax 20 Locality name ¤ 2014 ADP, LLC
+17 State income tax 18 Local wages, tips, etc.
+15 State Employer’s state ID no. 16 State wages, tips, etc.
+13 Stat emp. Ret. plan 3rd party sick pay
+12d
+14 Other 12c
+12b
+Social Security Number:
+11 Nonqualified plans 12a See instructions for box 12
+9 10 Dependent care benefits 3. Employee W-4 Profile. To change your Employee W-4 Profile Information, file a new W-4 with your payroll dept.
+7 Social security tips 8 Allocated tips
+5 Medicare wages and tips 6 Medicare tax withheld
+3 Social security wages 4 Social security tax withheld
+1 Wages, tips, other comp. 2 Federal income tax withheld
+b Employer’s FED ID number a Employee’s SSA number
+e/f Employee’s name, address, and ZIP code
+2. Your Gross Pay was adjusted as follows to produce your W-2 Statement.
+c Employer’s name, address, and ZIP code
+d Control number Dept. Corp. Employer use only
+1. The following information reflects your final pay stub plus any adjustments submitted by your employer.
+The reverse side includes general information that you may also find helpful.
+This blue Earnings Summary section is included with your W-2 to help describe portions in more detail.
+2014 W-2 and EARNINGS SUMMARY
+19 Local income tax 20 Locality name 19 Local income tax 20 Locality name 19 Local income tax 20 Locality name
+17 State income tax 18 Local wages, tips, etc. 17 State income tax 18 Local wages, tips, etc. 17 State income tax 18 Local wages, tips, etc.
+15 State Employer’s state ID no. 16 State wages, tips, etc. 15 State Employer’s state ID no. 16 State wages, tips, etc. 15 State Employer’s state ID no. 16 State wages, tips, etc.
+e/f Employee’s name, address and ZIP code e/f Employee’s name, address and ZIP code e/f Employee’s name, address and ZIP code
+13 Stat emp.Ret. plan 3rd party sick pay 13 Stat emp. Ret. plan 3rd party sick pay 13 Stat emp. Ret. plan 3rd party sick pay
+12d 12d 12d
+12c 12c 12c
+14 Other 12b 14 Other 12b 14 Other 12b
+11 Nonqualified plans 12a See instructions for box 12 11 Nonqualified plans 12a 11 Nonqualified plans 12a
+9 10 Dependent care benefits 9 10 Dependent care benefits 9 10 Dependent care benefits
+7 Social security tips 8 Allocated tips 7 Social security tips 8 Allocated tips 7 Social security tips 8 Allocated tips
+b Employer’s FED ID number a Employee’s SSA number b Employer’s FED ID number a Employee’s SSA number b Employer’s FED ID number a Employee’s SSA number
+c Employer’s name, address, and ZIP code c Employer’s name, address, and ZIP code c Employer’s name, address, and ZIP code
+Corp. Employer use only d Control number Dept. Corp. Employer use only
+W-2 Wage and Tax 2014
+W-2 Wage and Tax 2014 W-2 Wage and Tax
+Employee Reference Copy
+NC.State Reference Copy NC.State Filing Copy
+Statement
+OMB No. 1545-0008
+Statement
+Return.
+Statement
+Copy C for employee’s records.
+2014
+Copy 2 to be filed with
+OMB No. 1545-0008 W-2 Wage and Tax 2014
+OMB No. 1545-0008
+employee’s State Income Tax Copy 2 to be filed with Return.
+Federal Filing Copy
+employee’s State Income Tax
+Statement OMB No. 1545-0008
+Copy B to be filed with Federal Income Tax Return.
+11648.00 1669.90 11648.00
+employee’s
+1669.90
+958367 NCN2/CY3 107470 T 4505
+1669.90
+11648.00
+T 4505
+CITRIX SYSTEMS INC
+396-39-1920
+958367 NCN2/CY3 107470
+958367 NCN2/CY3 107470
+Batch #02695
+851 W CYPRESS CREEK RD
+T
+CITRIX SYSTEMS INC
+396-39-1920
+FORT LAUDERDALE FL 33309
+4505
+851 W CYPRESS CREEK RD
+75-2275152
+11648.00
+CITRIX SYSTEMS INC
+FORT LAUDERDALE FL 33309
+KARAN SHARMA
+851 W CYPRESS CREEK RD
+75-2275152
+11648.00
+1701 CREST ROAD
+FORT LAUDERDALE FL 33309
+KARAN SHARMA
+1669.90
+APT 3
+75-2275152 396-39-1920
+1701 CREST ROAD
+T 4505
+RALEIGH NC 27606
+KARAN SHARMA
+11648.00
+APT 3
+107470
+396-39-1920
+NC 600243379
+1701 CREST ROAD
+396-39-1920
+RALEIGH NC 27606
+11648.00
+543.00
+APT 3
+Taxable Marital Status:
+NC 600243379
+RALEIGH NC 27606
+SINGLE
+543.00
+NC 600243379
+543.00
+11648.00
+543.00
+NC. State Wages,
+958367 NCN2/CY3
+Exemptions/Allowances:
+CITRIX SYSTEMS INC
+KARAN SHARMA
+____________________
+851 W CYPRESS CREEK RD
+1701 CREST ROAD
+FEDERAL:
+Tips, Etc.
+FORT LAUDERDALE FL 33309
+APT 3
+1
+Box 16 of W-2
+75-2275152
+RALEIGH NC 27606
+KARAN SHARMA
+1701 CREST ROAD
+STATE:
+APT 3
+Single, 1
+RALEIGH NC 27606
+NC. State Income Tax
+NC 600243379
+543.00
+Medicare
+Wages
+Box 5 of W-2
+2014
+Box 17 of W-2
+Gross Pay Social Security
+SUI/SDI
+Tax Withheld
+Box 14 of W-2
+Box 4 of W-2
+Social Security
+Fed. Income Medicare Tax
+Wages
+11,648.00
+Tax Withheld Withheld
+Box 3 of W-2
+Box 2 of W-2 Box 6 of W-2
+N/A
+11648.00
+11,648.00
+1669.90
+11,648.00
+Wages, Tips, other
+11,648.00
+Compensation
+Box 1 of W-2
+0.00
+Gross Pay 11,648.00 11,648.00
+Less ExemptWages N/A 11,648.00
+Reported W-2 Wages 11,648.00 0.00
+
+NOTE: THESE ARE SUBSTITUTE WAGE AND TAX STATEMENTS AND ARE ACCEPTABLE FOR FILING WITH YOUR FEDERAL, STATE AND LOCAL/CITY INCOME TAX RETURNS.
